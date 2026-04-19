@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm [Twoje Imię/Nick] 👋
 
-<!--
-**Ruchomey/Ruchomey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Low-Level & Kernel Enthusiast
+I'm a self-taught developer focused on understanding how things work under the hood. Currently deep-diving into **C**, memory management, and system architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** C (Core Focus), Assembly (Soon)
+- **Concepts:** Pointer Arithmetic, Dynamic Memory Allocation, Data Structures
+- **Environment:** Visual Studio, Windows API, CMD/PowerShell
+
+---
+
+### 📈 My Journey
+- 🟢 **Current Level:** Mastering `malloc()`, `free()` and Pointer Magic.
+- 🟡 **Next Goal:** Kernel Mode, Drivers, and Bitwise Operations.
+- 🔴 **Final Boss:** Writing my own simple OS kernel.
+
+---
+
+### 📊 My Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=Ruchomey&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchomey&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Get in touch
+- If you want to talk about pointers, memory leaks, or why C is the king of languages – hit me up!
+
+> "To understand recursion, you must first understand recursion... and then pointers."
