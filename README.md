@@ -1,4 +1,4 @@
-# Hi there, I'm [Twoje Imię/Nick] 👋
+# Hi there, I'm [Ruchomey] 👋
 
 ### 👨‍💻 Low-Level & Kernel Enthusiast
 I'm a self-taught developer focused on understanding how things work under the hood. Currently deep-diving into **C**, memory management, and system architecture.
