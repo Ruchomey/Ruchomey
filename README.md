@@ -1,4 +1,4 @@
-# Hi there, I'm [Ruchomey] 👋
+# Hi there, I'm Ruchomey 👋
 
 ### 👨‍💻 Low-Level & Kernel Enthusiast
 I'm a self-taught developer focused on understanding how things work under the hood. Currently deep-diving into **C**, memory management, and system architecture.
@@ -20,7 +20,7 @@ I'm a self-taught developer focused on understanding how things work under the h
 ---
 
 ### 📊 My Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=Ruchomey&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruchomey&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchomey&layout=compact&theme=tokyonight)
 
 ---
